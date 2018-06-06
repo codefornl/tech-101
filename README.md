@@ -7,8 +7,10 @@ License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 ## Agile web development and human centered design
 
+## Github and open source development
+
 ## Data: open data, linked data
 
-## API's
+## API's (application programming interfaces)
 
-## Blockchain
+## Peer-to-peer and blockchain
