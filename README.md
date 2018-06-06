@@ -1,6 +1,8 @@
 # tech-101
 Tech 101 is an introduction to methods, techniques and technology used in software design, development, hosting and maintenance.
 
+https://codefornl.github.io/tech-101/
+
 License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 ## Internet and the world wide web
