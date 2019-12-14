@@ -1,4 +1,4 @@
-# tech-101
+# tech101
 Tech 101 is an introduction to methods, techniques and technology used in software design, development, hosting and maintenance.
 
 https://www.tech101.nl
